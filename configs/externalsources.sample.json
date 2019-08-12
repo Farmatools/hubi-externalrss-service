@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Accountname in Farmahubi",
+    "company": "The company name as visible in Farmahubi",
+    "email": "Email address (used to hash the password)",
+    "source": "RSS source url",
+    "categories":  ["Categories obtainable from https://farmahubi.fi/api/v1/category"]
+  }
+]

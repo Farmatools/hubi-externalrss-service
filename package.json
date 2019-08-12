@@ -1,0 +1,27 @@
+{
+  "name": "hubi-externalrss-service",
+  "version": "0.1.0",
+  "description": "Background service from importing external RSS feeds into hubi-api",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node --harmony src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tatu Pesonen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt-nodejs": "0.0.3",
+    "cron": "^1.7.1",
+    "dotenv": "^8.0.0",
+    "hubi-logging": "file:./hubi-logging",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "rss-parser": "^3.7.0",
+    "tough-cookie": "^3.0.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}

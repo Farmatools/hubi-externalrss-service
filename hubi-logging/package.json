@@ -1,0 +1,15 @@
+{
+  "name": "hubi-logging",
+  "version": "1.0.4",
+  "description": "A logging module for hubi-api.",
+  "main": "index.js",
+  "author": "Anton Podkletnov, Jani Syrjänen, Joonas Nousiainen",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "winston": "^3.x.x",
+    "winston-daily-rotate-file": "^3.x.x"
+  },
+  "files": [
+    "index.js"
+  ]
+}

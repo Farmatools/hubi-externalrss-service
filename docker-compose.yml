@@ -1,0 +1,7 @@
+version: '3'
+services:
+  hubi-externalrss-service:
+    image: hubi-externalrss-service
+    volumes:
+      - "./configs:/opt/hubi-externalrss-service/configs"
+      - "./service-logs:/opt/hubi-externalrss-service/logs"
