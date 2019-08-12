@@ -1,0 +1,7 @@
+node_modules/
+configs/service-accounts.json
+configs/externalsources.json
+logs/
+app.env
+service-logs/
+env/
