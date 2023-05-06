@@ -17,7 +17,7 @@
     "hubi-logging": "file:./hubi-logging",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "rss-parser": "^3.7.0",
+    "rss-parser": "^3.13.0",
     "tough-cookie": "^3.0.1",
     "uuid": "^3.3.2"
   },
