@@ -7,7 +7,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "winston": "^3.x.x",
-    "winston-daily-rotate-file": "^3.x.x"
+    "winston-daily-rotate-file": "^4.x.x"
   },
   "files": [
     "index.js"
